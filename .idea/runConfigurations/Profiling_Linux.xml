@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Profiling_Linux" type="CompoundRunConfigurationType">
+    <toRun name="Editor" targetId="CMakeBuildProfile:Release" type="CMakeRunConfiguration" />
+    <toRun name="TracyClient_Linux" targetId="CMakeBuildProfile:Release" type="CMakeRunConfiguration" />
+    <method v="2" />
+  </configuration>
+</component>

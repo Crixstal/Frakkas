@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Profiling_Windows" type="CompoundRunConfigurationType">
+    <toRun name="Editor" targetId="CMakeBuildProfile:Release" type="CMakeRunConfiguration" />
+    <toRun name="TracyClient_Windows" targetId="CMakeBuildProfile:Release" type="CMakeRunConfiguration" />
+    <method v="2" />
+  </configuration>
+</component>
