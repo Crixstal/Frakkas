@@ -1,3 +1,10 @@
+![shool_year](https://img.shields.io/badge/shool_year-second-blue)
+![duration](https://img.shields.io/badge/duration-5_months-blue)  
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white&style=plastic)
+![Windows 10](https://img.shields.io/badge/Windows%2010-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white&style=plastic)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white&style=plastic)  
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white&style=plastic)
+
 All rights reserved for Frakkas team.  
 
 # FRAKKAS ENGINE => 'FRAKKARENA'  
@@ -10,12 +17,9 @@ All rights reserved for Frakkas team.
 2. [Frakkarena](#frakkarena)  
     2.1 [Controls](#controls)
 
-<br>
-
 # Frakkas  
   
 ## Description
----
 
 The project's goal is to produce a game from an adapted homemade game engine. The project lasted 4 months, and we are a group of 3 second-year Game Programmer students, supervised by a fifth-year student.  
   
@@ -23,18 +27,12 @@ Our engine is called **_Frakkas_**, and our game **_Frakkarena_**. The game is a
   
 In short,  **_Frakkas_** is a 3D casual game engine, with animations, shadows, and toon shading.  
 
-<br>
-
 ## Open in an IDE
----
 
 If you are using CLion, just open the project directly with it.  
 In case you are using Visual Studio Community/Enterprise 2022, check our tutorial on our wiki: accessible [here](https://gitlabstudents.isartintra.com/projets/2021_gp_2025_engine_gp_2025_engine-frakkas/-/wikis/Launch%20project%20with%20Visual%20Studio).  
 
-<br>
-
 ## Update submodules
----
 
 The engine integrate several submodules.  
 They are normally automaticaly update with the main CMakeLists.txt but in case you encounter problems here is three solutions:
@@ -42,13 +40,11 @@ They are normally automaticaly update with the main CMakeLists.txt but in case y
 2. In each submodule directory located in extern/ (ex: Frakkas/extern/tracy), execute this command in a Git Bash command prompt: `git checkout`
 3. Contact us!
 
-<br>
+---
 
 # Frakkarena
 
 ## Controls
-
-<br>
 
 - __Gamepad _(Xbox binding)___
 
@@ -60,8 +56,6 @@ Right Trigger / B / Y          | Run
 Start                          | Play / Pause  
 D-PAD / A                      | Menu navigation  
     
-<br>  
-
 - __Gamepad _(PS4 binding)___
 
 Input                                   | Action
@@ -71,8 +65,6 @@ cross / square                          | Attack
 Right Trigger / circle / triangle       | Run
 Options                                 | Play / Pause  
 D-PAD / cross                           | Menu navigation  
-
-<br>  
 
 - __Mouse / Keyboard (QWERTY)__
 
@@ -84,12 +76,8 @@ E / Left Shift / Right click   | Run
 P / Esc                        | Play / Pause  
 Arrows / Mouse / Space         | Menu navigation  
 
-<br>
-
 ---
 
 Looking for additionnal informations? Look at our [wiki](https://gitlabstudents.isartintra.com/projets/2021_gp_2025_engine_gp_2025_engine-frakkas/-/wikis/home)!
-
-<br>
 
 [Head of page](#summary)
