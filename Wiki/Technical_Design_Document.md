@@ -128,4 +128,4 @@ Json was our second choice, with the nlohmann json header-only library, but we c
 
 Learn about our scene files -> [here](Scene_File.md)  
 
-[Head of page](#summary) - [Home](Home.md)
+[Head of page](#summary) - [Home](README.md)
