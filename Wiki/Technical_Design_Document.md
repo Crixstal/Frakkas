@@ -25,7 +25,6 @@ The universe would be fantasy-futuristic, it will be colored thanks to a cartoon
 There will be only 2 types of enemies, and their number will compensate for their minimal intelligence.
 A timer defines the time it takes to survive the waves of enemies in the arena, once finished, the player must reach a portal to go to another map, and we start again.
 
-_link to the UML : [click here](https://drive.google.com/file/d/1SBmX84fGq0kCGZPlbNm0Xl98ddZwisI8/view?usp=sharing)_  
 > _For more details: [GCD](game-concept-document)_
   
 # Game technical challenges
