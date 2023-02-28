@@ -6,6 +6,8 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white&style=plastic)
 
 All rights reserved for Frakkas team.  
+![Itch.io](https://img.shields.io/badge/Fura-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&style=flat&link=https://fura-x.itch.io/)
+![Itch.io](https://img.shields.io/badge/SJarod-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&style=flat&link=https://sjarod.itch.io/)
 
 # FRAKKAS ENGINE => 'FRAKKARENA'  
 
@@ -30,7 +32,7 @@ In short,  **_Frakkas_** is a 3D casual game engine, with animations, shadows, a
 ## Open in an IDE
 
 If you are using CLion, just open the project directly with it.  
-In case you are using Visual Studio Community/Enterprise 2022, check our tutorial on our wiki: accessible [here](https://gitlabstudents.isartintra.com/projets/2021_gp_2025_engine_gp_2025_engine-frakkas/-/wikis/Launch%20project%20with%20Visual%20Studio).  
+In case you are using Visual Studio Community/Enterprise 2022, check our [tutorial](Wiki/Launch_With_Visual_Studio.md).  
 
 ## Update submodules
 
@@ -78,6 +80,6 @@ Arrows / Mouse / Space         | Menu navigation
 
 ---
 
-Looking for additionnal informations? Look at our [wiki](https://gitlabstudents.isartintra.com/projets/2021_gp_2025_engine_gp_2025_engine-frakkas/-/wikis/home)!
+Looking for additionnal informations? Look at our [wiki](Wiki/Home.md)!
 
 [Head of page](#summary)
