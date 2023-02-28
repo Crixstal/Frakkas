@@ -72,4 +72,4 @@ The last thing to do is to select a startup project. If you have multiple projec
 
 Once you select a project, you can execute it as in standard Visual Studio project.  
 
-[Home](Home.md)
+[Home](README.md)
