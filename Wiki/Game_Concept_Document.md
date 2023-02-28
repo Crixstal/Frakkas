@@ -27,8 +27,7 @@ When the time is up, a portal appears and allows the player to get to the next l
 The middle-sized arenas are square-shaped. There are no holes or apertures that let the player escape but there are boxes, and platforms to make the arena look like a labyrinth. The player would be able to climb on the platforms with stairs and would also be able to jump off them to reach the ground. The enemies would not jump.  
 
 The camera is oriented non-orthogonally not to film the scene as a square but as a diamond. The 2 walls facing the camera, those in the back, are visible and tall whereas the 2 closest walls are either transparent or invisible.  
-![typical-scene](https://cdn.discordapp.com/attachments/956569497635000340/956570158191771748/unknown.png)
-![typical-scene2](https://cdn.discordapp.com/attachments/956569497635000340/956570492763009024/unknown.png)
+<img src="https://cdn.discordapp.com/attachments/956569497635000340/956570158191771748/unknown.png" width=50% height=50%><img src="https://cdn.discordapp.com/attachments/956569497635000340/956570492763009024/unknown.png" width=50% height=50%>
 
 The portal appears at a given location in the arena. There are no signs to show where it is located, if the player does not know the arena, they will have to dash in order to spot it quickly. The portal is not hidden but can be placed on the high grounds or the platforms.  
 
