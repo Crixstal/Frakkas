@@ -4,29 +4,30 @@ Our project is based on CMakeLists which will define all our project settings. T
 
 ### 1 - Open Visual Studio App  
 ### 2 - Select "Open a local folder"
-![Step1](uploads/0d6f77896739e71c33e83791c178e9fd/Step1.png)
+<img src="https://user-images.githubusercontent.com/91843760/221991381-13c7f688-aa03-482d-b571-5d9e7bbee088.png" width=75% height=75%>  
+
 ### 3 - Select the project folder  
 Even if Visual Studio does not display CMakeLists.txt files, it will detect them once a folder is opened with it.  
 
 The Visual Studio interface should open, and this tab will appear :  
-![CmakeLearn](uploads/888a8a8b2d7faf522da62990bc171ccd/CmakeLearn.png)  
+<img src="https://user-images.githubusercontent.com/91843760/221991639-9b295bdf-190e-49de-ac2b-69afa4560aa2.png" width=75% height=75%>  
 You can ignore it. What you have to do is to verify if the CMakeLists generate the project properly.  
 Here an exemple,   
 **1** is the logger where the CMake generation will be printed,   
 **2** the files hierarchy that is similar to file explorer view.  
-![Structure](uploads/5069a10b1b01e021c4628e206cd0841a/Structure.png) 
-
+<img src="https://user-images.githubusercontent.com/91843760/221991823-add1d1bb-a638-49ad-9aec-e2f29b8cca40.png" width=75% height=75%>    
 If Visual Studio does not generate the project, you should enable CMake generation :  
-![Step3](uploads/7aa780f7ad8c53999925b2939ca359cf/Step3.png)
+<img src="https://user-images.githubusercontent.com/91843760/221991914-61e1e7d1-03ba-405e-82b8-470100fb25de.png" width=75% height=75%>  
 Go to Project -> CMake Workspace Settings.  
 Add and set "enableCMake" to true.  
 
 ### 4 - Build configurations
 
 By default you just have a Debug build configuration, to add more: click on the configuration panel then on "Manage Configurations..."  
-![buildConfig](uploads/48992bc7f6292b66d8989a4a021495dc/buildConfig.png)  
+<img src="https://user-images.githubusercontent.com/91843760/221992099-f8904089-7b1b-479a-ae09-535045c8c75a.png" width=25% height=25%>  
+
 You just need to click on "Add a new configuration" and choose one in the list (preferably a x64 one). Be sure to have at least one debug and one release.  
-![buildConfig2](uploads/b36e4611b0e46cdb0b6ae8c3fc50d069/buildConfig2.png)
+<img src="https://user-images.githubusercontent.com/91843760/221992110-15a1c136-82d3-48e4-b800-f46f3c5cfd32.png" width=75% height=75%>  
 
 ### 5 - launch.vs.json  
 
@@ -62,12 +63,13 @@ The file `launch.vs.json` will open in the IDE, all you have to do is to copy/pa
 ```
 
 If you don't see the "Debug and Launch settings" options you have to create the lauch.vs.json file: right click on the main CMakeLists.txt, then select "Add Debug Configuration".  
-![AddDebug](uploads/d3a7329d56a2c1edd428d0440f4b03e9/AddDebug.png)  
+<img src="https://user-images.githubusercontent.com/91843760/221992269-3396ea82-23c0-4070-acfd-e2071b19bd01.png" width=75% height=75%>  
 Finally, select the default configuration. The wanted file is now created, next, you have to replace the file content with the code above.  
 
 ### 6 - Select a startup project  
 The last thing to do is to select a startup project. If you have multiple project, only **"Editor.exe"** or **"Launcher.exe"** is interesting.   
-![Step5](uploads/1201e3eb193a964ced85f3d7c4d764e1/Step5.png)  
+<img src="https://user-images.githubusercontent.com/91843760/221992283-d9290d2f-be9f-4149-9577-82355591a3fe.png" width=75% height=75%> 
+
 Once you select a project, you can execute it as in standard Visual Studio project.  
 
 [Home](Home.md)
