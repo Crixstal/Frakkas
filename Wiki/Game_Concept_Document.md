@@ -130,4 +130,4 @@ To have more epic feelings, here is what we could add:
 
 *2 - Ragdoll, means that the physics of an entity's body is removed, the body then begins to fall absurdly.* <a name="Ragdoll"></a>
 
-[Head of page](#summary) - [Home](Home.md)
+[Head of page](#summary) - [Home](README.md)
