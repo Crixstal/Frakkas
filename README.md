@@ -9,6 +9,8 @@ All rights reserved for Frakkas team.
 ![Itch.io](https://img.shields.io/badge/Fura-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&style=flat&link=https://fura-x.itch.io/)
 ![Itch.io](https://img.shields.io/badge/SJarod-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&style=flat&link=https://sjarod.itch.io/)
 
+https://user-images.githubusercontent.com/91843760/224386258-254d8523-1d9d-4059-bccc-330b3ea79203.mp4
+
 # FRAKKAS ENGINE => 'FRAKKARENA'  
 
 ## Summary
