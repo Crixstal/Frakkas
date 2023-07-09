@@ -5,9 +5,11 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white&style=plastic)  
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white&style=plastic)
 
+## Credits
+
 All rights reserved for Frakkas team.  
-![Itch.io](https://img.shields.io/badge/Fura-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&style=flat&link=https://fura-x.itch.io/)
-![Itch.io](https://img.shields.io/badge/SJarod-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&style=flat&link=https://sjarod.itch.io/)
+[![Itch.io](https://img.shields.io/badge/Florian_MARCELLOT-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&style=flat&link=https://fura-x.itch.io/)](https://fura-x.itch.io/)
+[![Itch.io](https://img.shields.io/badge/Jarod_SENGKEO-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&style=flat&link=https://sjarod.itch.io/)](https://sjarod.itch.io/)
 
 https://user-images.githubusercontent.com/91843760/224386258-254d8523-1d9d-4059-bccc-330b3ea79203.mp4
 
