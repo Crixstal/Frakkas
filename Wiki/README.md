@@ -1,4 +1,5 @@
-![Frakkas Logo](https://cdn.discordapp.com/attachments/940650918385418350/953339712234459218/Logotype4x.png)  
+<img src="https://github.com/user-attachments/assets/89296460-affd-4f20-b49c-2d6aa3452adb" width="128">
+
 
 ## WELCOME on the **FRAKKAS** wiki!  
 
