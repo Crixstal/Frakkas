@@ -84,6 +84,6 @@ Arrows / Mouse / Space         | Menu navigation
 
 ---
 
-Looking for additionnal informations? Look at our [wiki](Wiki/Home.md)!
+Looking for additionnal informations? Look at our [wiki](Wiki/README.md)!
 
 [Head of page](#summary)
